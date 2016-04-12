@@ -1,1 +1,1 @@
-# computer_network_2016_solution
+# Please chek network_hw_2016.ipynb
